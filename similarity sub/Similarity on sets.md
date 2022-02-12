@@ -6,4 +6,4 @@ Like we have similarity on vectors, we also have similarties on sets.
 - Sorensen-Dice coefficient $$s(A,B) = \frac{2|A\cap B|}{|A| + |B|}$$
 - Single link distance function $$d(A,B) = min_{a\in A, b\in B} \space d_{vector}(a,b)$$
 - Complete link distance function $$d(A,B) = max_{a\in A, b\in B} \space d_{vector}(a,b)$$
-- Average link distance function
+- Average link distance function $$d(A,B) = \frac{1}{|A||B|} \sum_{a \in A}\sum_{b\in B}d_{vector}(a,b)$$

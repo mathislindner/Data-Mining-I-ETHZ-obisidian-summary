@@ -1,2 +1,2 @@
-# Data-Mining-I-ETHZ-obisidian-summary
-based on course of  https://bsse.ethz.ch/mlcb/education/data-mining1.html
+# Data-Mining I ETHZ-obisidian-summary
+Based on course 636-0018-00L of the ETH BSSE departement https://bsse.ethz.ch/mlcb/education/data-mining1.html

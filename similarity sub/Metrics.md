@@ -2,7 +2,7 @@
 [[Distance Functions]] accept the metrics definitions.
 
 ## Definition of a metric
-$$x1,x2,x3 \in \mathbb{R}^d$$
+Assume: $x1,x2,x3 \in \mathbb{R}^d$
 
 -  Non Negative
 $$d(x1,x2) \geq 0$$
