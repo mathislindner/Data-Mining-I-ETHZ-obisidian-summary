@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "76fe590a39b64925",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeda8424354c54bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "similarity sub/Similarity on sets.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7bc7b77ee2644fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "41d7fc0fecc0430f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbef234489ef1e2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "00bac94daea18011",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208
+  },
+  "right": {
+    "id": "29f9ad9f0bfdde70",
+    "type": "split",
+    "children": [
+      {
+        "id": "c58ebc16b12b4273",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5de1e87d67ca0b05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "similarity sub/Similarity on sets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "aeda8424354c54bc",
+  "lastOpenFiles": [
+    "similarity sub/Similarity on sets.md",
+    "Similarity.md",
+    "similarity sub/Metrics.md",
+    "similarity sub/Distance Functions.md",
+    "Overview.md",
+    "msc/preamble.sty.md"
+  ]
+}
