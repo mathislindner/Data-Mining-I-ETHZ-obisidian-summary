@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Clustering.md",
+            "file": "clustering sub/DBscan.md",
             "mode": "source",
             "source": false
           }
@@ -58,46 +58,22 @@
   "right": {
     "id": "29f9ad9f0bfdde70",
     "type": "split",
-    "children": [
-      {
-        "id": "c58ebc16b12b4273",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5de1e87d67ca0b05",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Clustering.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
   "active": "aeda8424354c54bc",
   "lastOpenFiles": [
+    "clustering sub/DBscan.md",
+    "clustering sub/Graph based clustering.md",
+    "classification sub/Nearest Neighbour Classification.md",
+    "clustering sub/Expectation Maximization clustering.md",
+    "clustering sub/Kernel k-means.md",
+    "clustering sub/Spectral clustering.md",
+    "clustering sub/K-means clustering.md",
+    "clustering sub/K-Medoid.md",
     "Clustering.md",
-    "Classification.md",
-    "classification sub/Kernels on specific data.md",
-    "classification sub/Kernel.md",
-    "classification sub/Kernel Trick.md",
-    "classification sub/Hard Margin SVM.md",
-    "classification sub/Support Vector Machines.md",
-    "classification sub/Soft Margin SVM.md",
-    "classification sub/Hyperplane Classifiers.md",
-    "classification sub/Lagrangian.md"
+    "Classification.md"
   ]
 }

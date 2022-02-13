@@ -9,7 +9,7 @@
 - Cluster patient data to find disease subtypes 
 - Cluster persons in social networks to detect communities
 
-
+## Different types of clustering
 [[K-means clustering]]
 [[Graph based clustering]]
 [[Spectral clustering]]
