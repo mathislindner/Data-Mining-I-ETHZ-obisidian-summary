@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classification.md",
+            "file": "Clustering.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208
+    "width": 279
   },
   "right": {
     "id": "29f9ad9f0bfdde70",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classification.md",
+                "file": "Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "aeda8424354c54bc",
   "lastOpenFiles": [
-    "Classification.md",
     "Clustering.md",
-    "Feature Selection.md",
-    "Overview.md",
-    "similarity sub/Weisfeiler-Lehman kernel.md",
-    "similarity sub/Similarity on graphs.md",
-    "similarity sub/Wiener index.md",
-    "Similarity.md",
-    "similarity sub/Similarity on sets.md",
-    "similarity sub/Similarity on nodes.md"
+    "Classification.md",
+    "classification sub/Kernels on specific data.md",
+    "classification sub/Kernel.md",
+    "classification sub/Kernel Trick.md",
+    "classification sub/Hard Margin SVM.md",
+    "classification sub/Support Vector Machines.md",
+    "classification sub/Soft Margin SVM.md",
+    "classification sub/Hyperplane Classifiers.md",
+    "classification sub/Lagrangian.md"
   ]
 }

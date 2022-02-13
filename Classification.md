@@ -29,4 +29,3 @@
 [[Logistic Reggression]]
 [[Descision Tree]]
 [[Support Vector Machines]]
-[[Kernel]]
