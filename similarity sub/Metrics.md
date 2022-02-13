@@ -11,6 +11,6 @@ $$d(x1,x2) = 0 \Leftrightarrow x1=x2$$
 -  Symmetry
 
 $$d(x1,x2) = d(x2,x1)$$
--  Triangular inequality
+-   #triangle_inequality
 $$d(x1,x2) \leq d(x1,x2) + d(x1,x3)$$
 

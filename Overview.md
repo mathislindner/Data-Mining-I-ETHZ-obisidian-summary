@@ -1,3 +1,6 @@
-# General Themes of Data Mining
+# Overview
 
 [[Similarity]]
+[[Classification]]
+[[Clustering]]
+[[Feature Selection]]
