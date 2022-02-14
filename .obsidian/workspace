@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "clustering sub/DBscan.md",
+            "file": "clustering sub/Spectral Clustering  Link to Eigenvalues and Eigenvectors.md",
             "mode": "source",
             "source": false
           }
@@ -65,15 +65,15 @@
   },
   "active": "aeda8424354c54bc",
   "lastOpenFiles": [
+    "clustering sub/Spectral Clustering  Link to Eigenvalues and Eigenvectors.md",
+    "clustering sub/Spectral clustering.md",
+    "clustering sub/Expectation Maximization clustering.md",
+    "clustering sub/K-means clustering.md",
+    "Clustering.md",
+    "Overview.md",
     "clustering sub/DBscan.md",
     "clustering sub/Graph based clustering.md",
     "classification sub/Nearest Neighbour Classification.md",
-    "clustering sub/Expectation Maximization clustering.md",
-    "clustering sub/Kernel k-means.md",
-    "clustering sub/Spectral clustering.md",
-    "clustering sub/K-means clustering.md",
-    "clustering sub/K-Medoid.md",
-    "Clustering.md",
-    "Classification.md"
+    "clustering sub/Kernel k-means.md"
   ]
 }

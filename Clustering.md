@@ -16,4 +16,13 @@
 [[Expectation Maximization clustering]]
 [[Hierarchical clustering]]
 
+## Summary
 
+- Clustering partitions a dataset into groups of similar objects. 
+- The three most popular families of clustering algorithms are 
+	1) [[K-means clustering]]
+	2) [[Graph based clustering]]
+	3) [[Hierarchical clustering]] 
+- When applying these algorithms, it is essential 
+	- to be aware of the strengths and weaknesses of these algorithms 
+	- to report the exact parameter settings used (e.g. number of clusters, distance function used).
