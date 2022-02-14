@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "clustering sub/Spectral Clustering  Link to Eigenvalues and Eigenvectors.md",
+            "file": "Feature Selection.md",
             "mode": "source",
             "source": false
           }
@@ -65,15 +65,15 @@
   },
   "active": "aeda8424354c54bc",
   "lastOpenFiles": [
-    "clustering sub/Spectral Clustering  Link to Eigenvalues and Eigenvectors.md",
-    "clustering sub/Spectral clustering.md",
-    "clustering sub/Expectation Maximization clustering.md",
-    "clustering sub/K-means clustering.md",
-    "Clustering.md",
-    "Overview.md",
-    "clustering sub/DBscan.md",
-    "clustering sub/Graph based clustering.md",
-    "classification sub/Nearest Neighbour Classification.md",
-    "clustering sub/Kernel k-means.md"
+    "Feature Selection.md",
+    "feature selection sub/Wrapper not embedded.md",
+    "feature selection sub/Wrapper Approaches.md",
+    "feature selection sub/Wrapper embedded.md",
+    "feature selection sub/Unsupervised Feature Selection.md",
+    "feature selection sub/Number of features.md",
+    "feature selection sub/Number of features (conflicted copy 2022-02-14 140247).md",
+    "feature selection sub/l0 Norm SVM (conflicted copy 2022-02-14 140113).md",
+    "feature selection sub/l0 Norm SVM.md",
+    "feature selection sub/Submodular Functions.md"
   ]
 }

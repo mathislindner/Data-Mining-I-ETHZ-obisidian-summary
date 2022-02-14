@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -25,7 +25,7 @@
       "query": "path:\"feature selection sub\"",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14111456
       }
     },
     {
@@ -46,6 +46,6 @@
   "repelStrength": 12.9213483146067,
   "linkStrength": 1,
   "linkDistance": 117,
-  "scale": 1.1104275850743743,
+  "scale": 0.3728303594985974,
   "close": false
 }
