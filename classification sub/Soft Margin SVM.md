@@ -1,5 +1,7 @@
+# Soft Margin SVM
+*Sometimes trying really hard not to misclassify one data point will result in worse seperability. Sometimes we can find better Support Vectors than the first ones at the Edge of the separation just like in [[Hard Margin SVM]]. That's why Soft Margin SVM exists*
 
-- $C \in \mathbb{R}$ is the #**penalty_score_parameter** that determines the tradeoff between maiximizing the margin and minimizing the margin errors
+- $C \in \mathbb{R}$ is the **penalty score parameter** that determines the tradeoff between maiximizing the margin and minimizing the margin errors
 - $\xi$ is a **slack variable**, which measures the degree of **misclassification** of each margin error.
 $$min_{w\in H,b\in \mathbb{R}, \xi \in \mathbb{R}}\frac{1}{2}||w||² + C\sum_{i=1}^n\xi_i$$
 **subject to** 

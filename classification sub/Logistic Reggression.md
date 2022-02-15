@@ -15,7 +15,7 @@ $g = f^{-1}$ $$g(f_w(x))=\ln(\frac{f_w(x)}{1-f_w(x)})= w_0+\sum_{i=1}^dw_ix_i$$
 - $\log(\frac{1}{1+exp(-y<w,x>)})$ = $-\log(1+exp(-y<w,x>))$ 
 - Training means **minimizing** the total negative log probability of **all** points.
 $$argmin_{w\in \mathbb{R^d}}\frac{1}{n}\sum_{i=1}^n\log(1+exp(-y_i<w,x_i>))$$
-- To minimize the above function you can use a Maximum Likelihood Estimation
+- To minimize the above function you can use a **Maximum Likelihood Estimation**
 
 ## Discussion
 - Logistic regression models are easy to fit: The algorithms are easy to implement and fast.

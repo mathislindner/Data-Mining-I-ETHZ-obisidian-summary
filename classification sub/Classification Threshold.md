@@ -20,6 +20,7 @@ $s: D \rightarrow \mathbb{R}$ is a **scoring function** and $\theta$ is a **thre
 - The common strategy is to compute two evaluation criteria e1 and e2 and to then visualize the result in a 2-D plot.
 
 ## Receiver Operating Characteristics Curve (ROC)
+[Video](https://www.youtube.com/watch?v=4jRBRDbJemM)
 ![[Pasted image 20220212213347.png]]
 ![[Pasted image 20220212213410.png]]
 ##  Area under the Receiver Operating Characteristics (AUC)

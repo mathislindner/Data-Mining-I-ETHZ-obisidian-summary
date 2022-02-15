@@ -2,7 +2,7 @@
 - It is essential to split the data into a #training_set and a #test_set
 - Splitting the dataset into k subsetsand using one of them for testing and the rest for training is referred to as *k-fold #cross-validation* 
 - if $k = n$ , cross validation is reffered to as *leave-one-out-validation*
-- Randomly sampling subsets of the data for training and testing and averaging over the results is called #bootstrapping.
+- Randomly sampling subsets of the data for training and testing and averaging over the results is called #bootstrapping. [video](https://youtu.be/Xz0x-8-cgaQ)
 
 ### 10-Fold cross-validation
 ![[Pasted image 20220212215309.png]]

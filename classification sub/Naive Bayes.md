@@ -3,7 +3,7 @@ Bayes' Rule
 $$
 P(Y=y|X=x) = \frac{P(X=x|Y=y)P(Y=y)}{P(X=x)}
 $$
-X is the random variable that describes the features, Y the random variable that describes the class label
+X is the random variable that describes the #features, Y the random variable that describes the class label
 
 ## Naive Bayes Classification
 ## Advantages
@@ -40,13 +40,14 @@ $$
 	- binary data: $P(X=x|Y=y_i) = \prod_{j=1}^d Ber(x_j|\theta{j,i})$ 
 		- $\theta{j,i}$ being the **probability** that feature $x_j$ has value 1 in class $y_i$
 	- continuous data: $P(X=x|Y=y_i) = \prod_{j=1}^d \mathcal{N}(x_j|\mu_{j,i},\sigma_{j,i}^2)$ 
-		- $\mu_{j,i}$ being the **mean** of feature $x_j$ in objects of class $i$ and $\sigma_{j,i}^2$ is the **variance**
+		- $\mu_{j,i}$ being the **mean** of feature ( #features)  $x_j$ in objects of class $i$ and $\sigma_{j,i}^2$ is the **variance**
 
 - Bernoulli distribution: 
 	- $Ber(x|\theta) = \theta \space\text{, if x=1}$ 
 	- $Ber(x|\theta) = 1- \theta \space\text{, if x=0}$ 
 
 - Gaussian (normal distribution) $\mathcal{N}(x|\mu,\sigma^2) = \frac{1}{\sqrt{2 \pi \sigma^2}}e^{\frac{-1}{2\sigma^2}(x-\mu)}$
+[video](https://youtu.be/H3EjCKtlVog)
 
 $$
 \mathcal{N}(x|\mu,\Sigma) = \frac{1}{(2\pi)^{\frac{d}{2}}|\Sigma^{\frac{1}{2}}|}e^{\frac{-1}{2}((x-\mu)^T\Sigma^{-1}(x-\mu))}

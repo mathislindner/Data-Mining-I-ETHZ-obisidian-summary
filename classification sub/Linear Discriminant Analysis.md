@@ -1,4 +1,12 @@
 # Linear Discriminant Analysis
+## Key take-away
+We want to maximise the distances between the means $\mu_i$ and minimise the variation $\Sigma$ 
+
+[video](https://youtu.be/azXCzI57Yfc)
+*we're interested in maximsing seperability netween the two groups so we can make the best decision*
+*LDA is like [[Principal Component Analysis]]: it reduces dimensions, however it focuses on **maximizing** the separability among the categories*
+*[[Principal Component Analysis]] is an **unsupervised** Dimensionality reduction technique, it ignores the class label and focuses and maximal variation.
+
 ## Assumptions
 - The goal is to predict a label $y ∈ \{0, 1\}$ from a vector x of d features, that is, $x = (x_1, . . . , x_d )$
 - We assume that $P(Y = 1) = P(Y = 0) = \frac{1}{2}$ . 
