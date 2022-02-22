@@ -1,4 +1,5 @@
 # Spectral Clustering
+[video](https://youtu.be/zkgm0i77jQ8)
 ## Concept
 - Spectral Clustering connects graph-based clustering with [[K-means clustering]]. 
 - The difference is that we induce cut-based clustering
@@ -13,6 +14,7 @@ where $\kappa (C_a,C_b) = \sum_{v_i \in C_a, v_j \in C_b, a\neq b}W_{ij}$ and $\
 
 ## Derivation from graph Laplacian to spectral clustering
 - To define spectral clustering we also need [[Graph Laplacian]]
+	- *it is basically the general connectivity on the trace, and the #adjacency_matrix  on all the other entries*
 ![[Pasted image 20220214093735.png]]
 ![[Pasted image 20220214093805.png]]
 **It follows that finding the minimum k-cut is identical to minimizing**$$\sum_{a=1}^{k}c_a^TLc_a$$

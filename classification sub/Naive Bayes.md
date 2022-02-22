@@ -1,4 +1,8 @@
 # Naive Bayes
+Both [[Linear Discriminant Analysis]] and Naïve Bayes (NB) are linear classifiers and come under the category of Generative Models which estimates the posterior P(class|x).
+
+[[Linear Discriminant Analysis]] assumes Gaussian class-conditional density models. It also assumes equal covariances. **NB assumes variables to be independent**.
+
 Bayes' Rule
 $$
 P(Y=y|X=x) = \frac{P(X=x|Y=y)P(Y=y)}{P(X=x)}

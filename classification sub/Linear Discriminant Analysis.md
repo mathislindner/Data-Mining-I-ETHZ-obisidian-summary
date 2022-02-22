@@ -10,7 +10,7 @@ We want to maximise the distances between the means $\mu_i$ and minimise the var
 ## Assumptions
 - The goal is to predict a label $y ∈ \{0, 1\}$ from a vector x of d features, that is, $x = (x_1, . . . , x_d )$
 - We assume that $P(Y = 1) = P(Y = 0) = \frac{1}{2}$ . 
-- We assume that the conditional probability of X given Y is a multivariate Gaussian distribution. 
+- **We assume that the conditional probability of X given Y is a multivariate Gaussian distribution. **
 - The covariance matrix Σ is the same for both classes, Y = 0 and Y = 1, but they differ in their means, µ0 and µ1 .
 
 ## Log-likelyhood ratio

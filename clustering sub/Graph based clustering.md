@@ -12,7 +12,7 @@
 ## Moreover
  - Two nodes are in the same connected component if there is a path between them. 
  - Graph components can be found by depth-first search in a graph $(O(|V| + |E|))$
- - The graph can be made with existing data such as: telecommunciation or soial networks
+ - The graph can be made with existing data such as: telecommunciation or social networks
  - Or we can create it by using a [[Distance Functions]] d by 
  - connecting each node by it's K-nearest neighbour with [[Nearest Neighbour Classification]]
  - or simply connecting each node with their $\epsilon$ neighbourhood

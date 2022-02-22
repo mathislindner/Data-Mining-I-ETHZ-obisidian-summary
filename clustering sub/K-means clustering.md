@@ -9,7 +9,7 @@ $$V(D) = \sum_{i=1}^k\sum_{x_j \in S_i}(x_j-\mu_j)^2$$
 - $D$ is the dataset of all points $x_j$
 
 ##  Lloyds algorithm
-1) Partition the data into k initial clusters 2
+1) Partition the data into k initial clusters
 2) Compute the mean of each cluster 
 3) Assign each point to the cluster whose mean is closest to the point
 4)  If any point changed its cluster membership: Repeat from Step 2)
