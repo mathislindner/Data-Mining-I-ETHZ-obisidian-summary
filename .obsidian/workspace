@@ -7,8 +7,12 @@
         "id": "121394f7c08f0a29",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Similarity.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "627a3a3ab9088a91"
       },
@@ -16,34 +20,11 @@
         "id": "e7f3076a799c55d4",
         "type": "leaf",
         "state": {
-          "type": "localgraph",
+          "type": "markdown",
           "state": {
-            "file": "similarity sub/Dynamic Time Warping.md",
-            "options": {
-              "collapse-filter": false,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
+            "file": "Similarity.md",
+            "mode": "preview",
+            "source": false
           }
         },
         "group": "627a3a3ab9088a91"
@@ -102,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Similarity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +103,15 @@
   },
   "active": "121394f7c08f0a29",
   "lastOpenFiles": [
-    "similarity sub/Dynamic Time Warping.md",
-    "similarity sub/Distance Functions.md",
     "Similarity.md",
     "Overview.md",
     "Classification.md",
+    "README.md",
+    "Pasted-image-20220215211122.png",
+    "similarity sub/Dynamic Time Warping.md",
+    "similarity sub/Distance Functions.md",
     "classification sub/Kernel Trick.md",
     "clustering sub/DBscan.md",
-    "clustering sub/K-means clustering.md",
-    "classification sub/Kernel.md",
-    "classification sub/Linear Discriminant Analysis.md"
+    "clustering sub/K-means clustering.md"
   ]
 }
